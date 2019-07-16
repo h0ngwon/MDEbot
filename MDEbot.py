@@ -1,6 +1,5 @@
 #-*- coding:utf-8 -*-
 import discord
-import os
 import requests
 import asyncio
 import json
@@ -45,6 +44,7 @@ names = {
     "master_caveira" : "마카배",
     "mde_dolbyis" : "돌비",
     "mde_honkonteemo" : "홍콩티모"
+    "mde_yuda" : "유다"
 }
 
 # Thread Worker
@@ -103,5 +103,4 @@ async def on_message(message):
         await message.channel.send("```md\n%s\n```" % output,embed=embed)
         await asyncio.sleep(7200)
 
-access_token = os.environ["BOT_TOKEN"]
-client.run(access_token)
+client.run("NTk4MDg4NjQ2MDA3OTgwMDQy.XSS0UQ.weOCK2uuTuxShCrBCRru6dK6hKY")
