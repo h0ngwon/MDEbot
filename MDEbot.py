@@ -1,11 +1,11 @@
 #-*- coding:utf-8 -*-
 import discord
+import os
 import requests
 import asyncio
 import json
 from parse import *
 import operator
-import os
 from threading import Thread
 
 
