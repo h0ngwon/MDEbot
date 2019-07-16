@@ -5,8 +5,9 @@ import asyncio
 import json
 from parse import *
 import operator
-from threading import Thread
 import os
+from threading import Thread
+
 
 
 client = discord.Client()
