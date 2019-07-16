@@ -47,6 +47,7 @@ names = {
     "mde_dolbyis" : "돌비",
     "mde_honkonteemo" : "홍콩티모"
     "mde_yuda" : "유다"
+    "mde_silent_cav" : "울프"
 }
 
 # Thread Worker
