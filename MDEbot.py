@@ -6,6 +6,8 @@ import json
 from parse import *
 import operator
 from threading import Thread
+import os
+
 
 client = discord.Client()
 game = discord.Game("명령어 '전적' 입력")
@@ -103,4 +105,5 @@ async def on_message(message):
         await message.channel.send("```md\n%s\n```" % output,embed=embed)
         await asyncio.sleep(7200)
 
-client.run("NTk4MDg4NjQ2MDA3OTgwMDQy.XSS0UQ.weOCK2uuTuxShCrBCRru6dK6hKY")
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
