@@ -46,7 +46,7 @@ names = {
     "do_not_touch_it" : "쉴드",
     "master_caveira" : "마카배",
     "mde_dolbyis" : "돌비",
-    "mde_honkonteemo" : "홍콩티모"
+    "mde_honkonteemo" : "홍콩티모",
     "mde_yuda" : "유다",
     "mde_silent_cav" : "울프",
     "dominic1029" : "도미닉",
