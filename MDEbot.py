@@ -11,7 +11,7 @@ from threading import Thread
 
 
 client = discord.Client()
-game = discord.Game("명령어 '전적' 입력")
+game = discord.Game("리더보드 적용중 :)")
 
 # Key: 닉네임(소문자)
 # Value: 출력이름
