@@ -107,7 +107,7 @@ async def on_message(message):
             output += "%d.[%s](%d점)\n" % (rank, player_realname, player_mmr)
 
         await message.channel.send("```md\n%s\n```" % output,embed=embed)
-        await asyncio.sleep(7200)
+        await asyncio.sleep(10800)
 
 access_token = os.environ["BOT_TOKEN"]
 client.run(access_token)
