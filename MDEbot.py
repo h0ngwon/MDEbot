@@ -51,7 +51,7 @@ names = {
     "mde_silent_cav" : "울프",
     "dominic1029" : "도미닉",
     "roatack" : "로아택"
-    "mde_pentel" : ""
+    "mde_pentel" : "펜텔"
 }
 
 # Thread Worker
