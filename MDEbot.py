@@ -40,7 +40,6 @@ names = {
     "mde_legendary":"레전더리",
     "mde_bomberris":"봄베리",
     "mde_zemma_ping9":"제마",
-    "mde_sun2880":"썬",
     "mde_uonigogi":"우니고기",
     "mde_booringgame":"부링게임",
     "do_not_touch_it" : "쉴드",
