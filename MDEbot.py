@@ -97,7 +97,7 @@ async def on_message(message):
         # 출력 시작
         output = "MDE 클랜 MMR 순위\n\n"
         embed = discord.Embed()
-        embed.set_footer(text="시즌 종료시 1위는 클랜장 제외하고 치킨 기프티콘!")
+        embed.set_footer(text="시즌 종료시 1위,2위는 클랜장 제외하고 치킨 기프티콘!")
         for index in range(0, len(sorted_players)):
             rank = index + 1 # 순위
             player = sorted_players[index] # 플레이어 정보
