@@ -37,7 +37,6 @@ names = {
     "mde_worst": "워스트",
     "mde_redpingki": "터틀",
     "n.chovy": "엔초비",
-    "mde_legendary":"레전더리",
     "mde_bomberris":"봄베리",
     "mde_zemma_ping9":"제마",
     "mde_uonigogi":"우니고기",
