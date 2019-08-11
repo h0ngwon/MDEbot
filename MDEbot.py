@@ -20,7 +20,6 @@ names = {
     "mde_no7.son": "클랜장",
     "mde_liketoshy": "샤이",
     "mde_partyman": "파티맨",
-    "mde_queen": "퀸",
     "mde_pang-yo": "빵요",
     "mde_fbi_ssd": "스스디",
     "mde_durexx": "콘돔",
@@ -50,7 +49,9 @@ names = {
     "dominic1029" : "도미닉",
     "roatack" : "로아택",
     "mde_pentel" : "펜텔",
-    "eukmeojang" : "머장"
+    "eukmeojang" : "머장",
+    "epsilon-delta." : "엡실론"
+
 }
 
 # Thread Worker
