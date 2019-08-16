@@ -47,7 +47,7 @@ names = {
     "mde_yuda" : "유다",
     "mde_silent_cav" : "울프",
     "dominic1029" : "도미닉",
-    "roatack" : "로아택",
+    "mde_roatack" : "로아택",
     "mde_pentel" : "펜텔",
     "eukmeojang" : "머장",
     "epsilon-delta." : "엡실론"
