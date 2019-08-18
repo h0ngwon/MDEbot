@@ -50,7 +50,12 @@ names = {
     "mde_roatack" : "로아택",
     "mde_pentel" : "펜텔",
     "eukmeojang" : "머장",
-    "epsilon-delta." : "엡실론"
+    "epsilon-delta." : "엡실론",
+    "mde_soul" : "소울",
+    "mde_risus" : "라이수스",
+    "ohs." : "Ohs.",
+    "ksjreal.rs" : "ksjreal"
+    
 
 }
 
