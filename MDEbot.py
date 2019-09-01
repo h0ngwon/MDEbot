@@ -27,7 +27,7 @@ names = {
     "mde_mighty": "마이티",
     "mde_seok": "석",
     "mde_rose": "로즈",
-    "mde_sia": "시아",
+    "mde_soma": "시아",
     "mde_jk": "히토미",
     "mde_nozaaaaaa": "노자",
     "mde_haagendazs": "다즈",
