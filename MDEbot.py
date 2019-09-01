@@ -39,7 +39,6 @@ names = {
     "mde_bomberris":"봄베리",
     "mde_zemma_ping9":"제마",
     "mde_uonigogi":"우니고기",
-    "mde_booringgame":"부링게임",
     "master_caveira" : "마카배",
     "mde_dolbyis" : "돌비",
     "mde_honkonteemo" : "홍콩티모",
